@@ -1,7 +1,7 @@
 # Awesome_Chocolate_Sales_Analysis_in_Excel
 
 
-. The aim of the this project is to explore sales analsysis and creates report in microsoft excel to submit skateholders to get overall summary in sales.
+. The aim of the this project is to explore sales analysis and creates report in Microsoft excel to submit stakeholders to get overall summary in sales.
 
 . By using pivot table finding insights from the raw data such as grand total sales of each customer.
 
